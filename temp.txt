@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 <h1>This is Master</h1>
 <h1>This is from Child Branch</h1>
-=======
-<h1>This is Master </h1>
-<h1>Making chnges from Main Branch </h1>
->>>>>>> 135ccbb27e691b9adb835cdc3219e4260e21e517
