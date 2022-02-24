@@ -1,6 +1,1 @@
 <h1>This is Master</h1>
-<<<<<<< HEAD
-Adding new change from Branch
-=======
-<h1>This is from Child Branch</h1>
->>>>>>> a57dab403318e1602c5a7d1c3032920b04da71c5
